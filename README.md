@@ -2,7 +2,7 @@
 - 👀 I’m interested in Network engineering, Linux and Cloud computing.
 - 🌱 I’m currently deepening my skills in enterprise networking (routing, switching, and network design).
 - 💞️ I’m looking to collaborate on on networking projects with Python programming, network automation.
-- 📫 How to reach me : tarilaerge@gmail.com or twitter/IG: @etarila
+- 📫 How to reach me : tarilaerge@gmail.com or twitter: @tarilaerge
 
 ##Network Engineer | Routing, Switching & Network Automation
 
