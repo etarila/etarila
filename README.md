@@ -11,7 +11,7 @@
 I am a network engineer focused on **enterprise networking**, **network design**, and **automation**.  
 My interests include designing resilient networks, implementing scalable routing solutions, and automating network operations.
 
- ##🔧 Technical Focus
+ ## 🔧 Technical Focus
 - Enterprise Routing & Switching (OSPF, BGP, EIGRP)
 - Network Design (Campus, Branch, WAN)
 - High Availability & Redundancy (HSRP, ECMP, EtherChannel)
@@ -21,7 +21,7 @@ My interests include designing resilient networks, implementing scalable routing
 
 ---
 
-##📚 Certifications & Learning Path
+## 📚 Certifications & Learning Path
 - CCNP Enterprise (loading 99%)
 - CCIE Enterprise Infrastructure (planned)
 - CISSP/ Security+
@@ -29,7 +29,7 @@ My interests include designing resilient networks, implementing scalable routing
 
 ---
 
- ##🧪 What You’ll Find very soon in My Repositories
+ ## 🧪 What You’ll Find very soon in My Repositories
 - Enterprise network design labs (3-tier campus, WAN, dual-ISP)
 - Router and switch configurations (Cisco IOS/XE)
 - Network automation scripts (Python & Ansible)
@@ -37,7 +37,7 @@ My interests include designing resilient networks, implementing scalable routing
 
 ---
 
-## 📂 Featured Projects
+##  📂 Featured Projects
 - **enterprise-campus-design**
   - 3-tier campus architecture
   - OSPF multi-area design
@@ -54,7 +54,7 @@ My interests include designing resilient networks, implementing scalable routing
 
 ---
 
-## 📈 Current Focus
+##  📈 Current Focus
 - Deepening routing and design expertise
 - Building CCIE-level lab scenarios
 - Improving network automation skills
@@ -62,7 +62,7 @@ My interests include designing resilient networks, implementing scalable routing
 
 ---
 
-## 📫 Contact
+##  📫 Contact
 - Email: tarilaerge@gmail.com
 - GitHub: https://github.com/etarila
 - Twitter: @tarilaerge
