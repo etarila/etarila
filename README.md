@@ -1,10 +1,12 @@
-- 👋 Hi, I’m Erge Tarila 👋
+# Hi, I’m Erge Tarila 👋
+
 - 👀 I’m interested in Network engineering, Linux and Cloud computing.
 - 🌱 I’m currently deepening my skills in enterprise networking (routing, switching, and network design).
 - 💞️ I’m looking to collaborate on on networking projects with Python programming, network automation.
 - 📫 How to reach me : tarilaerge@gmail.com or twitter: @tarilaerge
 
-##Network Engineer | Routing, Switching & Network Automation
+## 🌐 Network Engineer | Routing, Switching & Network Automation
+
 
 I am a network engineer focused on **enterprise networking**, **network design**, and **automation**.  
 My interests include designing resilient networks, implementing scalable routing solutions, and automating network operations.
